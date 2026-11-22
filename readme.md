@@ -14,7 +14,7 @@ Here is the index of the labs I've solved so far. Click on the lab name to view 
 
 | Vulnerability Type | Lab Name | Writeup Link                                                          |
 | :--- | :--- |:----------------------------------------------------------------------|
-| **SSRF** | Basic SSRF against the local server | [View Solution](./labs/Basic SSRF against another back-end system.md) |
+| **SSRF** | Basic SSRF against the local server | [View Solution](./labs/basic_SSRF.md) |
 | | |                                                                       |
 
 ---
